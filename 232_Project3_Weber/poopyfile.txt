@@ -1,0 +1,5 @@
+Character      Weight         Code           
+a              4              0              
+b              1              100            
+f              1              101            
+t              3              11             
